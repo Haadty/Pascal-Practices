@@ -8,6 +8,4 @@ It's only in Brazilian Portuguese because it's for college
 
 ==========================================================================
 
-<img src="https://static01.bbi.io/2Wt9Tk.gif"/>
-
-!(image)[https://static01.bbi.io/2Wt9Tk.gif]
+![Imgur](http://i.imgur.com/zTONrOD.jpg)
