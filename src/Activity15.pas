@@ -25,7 +25,7 @@ begin
   if (Idade < 19) or (Idade > 69) then
   begin
     writeln;
-    writeln('Infelizmente, você não pode ser doador.');
+    writeln('Infelizmente, voce nao pode ser doador.');
     Exit;
   end;
 
@@ -35,11 +35,11 @@ begin
   if Peso < 50 then
   begin
     writeln;
-    writeln('Infelizmente, você não pode ser doador.');
+    writeln('Infelizmente, voce nao pode ser doador.');
     Exit;
   end;
 
-  write('Você fez alguma tatuagem no último ano (VERDADEIRO ou FALSO)? ');
+  write('Voce fez alguma tatuagem no ultimo ano (VERDADEIRO ou FALSO)? ');
   readln(FezTatuagemStr);
 
   FezTatuagemStr := UpperCase(FezTatuagemStr);
@@ -53,18 +53,18 @@ begin
   else
   begin
     writeln;
-    writeln('Resposta inválida. Por favor, responda com "VERDADEIRO" ou "FALSO".');
+    writeln('Resposta invalida. Por favor, responda com "VERDADEIRO" ou "FALSO".');
     Exit;
   end;
 
   if FezTatuagem then
   begin
     writeln;
-    writeln('Infelizmente, você não pode ser doador.');
+    writeln('Infelizmente, voce nao pode ser doador.');
     Exit;
   end;
 
-  write('Você ingeriu álcool nas últimas 12 horas (VERDADEIRO ou FALSO)? ');
+  write('Voce ingeriu alcool nas ultimas 12 horas (VERDADEIRO ou FALSO)? ');
   readln(IngeriuAlcoolStr);
 
   IngeriuAlcoolStr := UpperCase(IngeriuAlcoolStr);
@@ -78,19 +78,19 @@ begin
   else
   begin
     writeln;
-    writeln('Resposta inválida. Por favor, responda com "VERDADEIRO" ou "FALSO".');
+    writeln('Resposta invalida. Por favor, responda com "VERDADEIRO" ou "FALSO".');
     Exit;
   end;
 
   if IngeriuAlcool then
   begin
     writeln;
-    writeln('Infelizmente, você não pode ser doador.');
+    writeln('Infelizmente, voce nao pode ser doador.');
     Exit;
   end;
 
   writeln;
-  writeln('Parabéns, você pode doar sangue.');
+  writeln('Parabens, voce pode doar sangue.');
 end;
 
 end.

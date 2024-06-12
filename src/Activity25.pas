@@ -22,7 +22,7 @@ begin
   readln(numero);
 
   soma := 0;
-  continuar := '';
+  continuar := 's';
   soma := soma + numero;
 
   repeat

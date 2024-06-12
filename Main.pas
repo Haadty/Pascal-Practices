@@ -124,7 +124,7 @@ begin
       ClrScr;
       writeln('Atividade ', Opcao, ':');
       writeln;
-      HandleMenu.ExecuteActivity(Opcao);
+      ExecuteActivity(Opcao);
     end
     else if Opcao = 0 then 
     begin

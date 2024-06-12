@@ -79,6 +79,7 @@ begin
   end;
   writeln;
   VerificarVencedor(Jogo);
+  readln;
 end;
 
 end.
