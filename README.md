@@ -1,3 +1,6 @@
-# Simple Pascal Coding for Learning
+# Practices in Pascal
 
-Various questions and implementations in Pascal.
+==========================================================================
+Some practices in the Pascal language that I'm doing for college are very simple questions with nothing complex, just for basic learning in Pascal.
+==========================================================================
+It's only in Brazilian Portuguese because it's for college
