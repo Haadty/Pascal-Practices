@@ -6,9 +6,7 @@ Some practices in the Pascal language that I'm doing for college are very simple
 
 It's only in Brazilian Portuguese because it's for college
 
-For those who want to know, it all starts on Main.pas 
-
-The other files in the src are each question resolved for my work
+For those who want to know, it all starts on Main.pas, the other files in the src are each question resolved for my work
 
 ==========================================================================
 <p align="center">
