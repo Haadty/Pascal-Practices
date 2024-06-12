@@ -8,4 +8,5 @@ It's only in Brazilian Portuguese because it's for college
 
 ==========================================================================
 
-![Imgur](https://i.imgur.com/HqP3oXy.gifv)
+![Uploading Jingle Jangle Jingle.gif…]()
+
